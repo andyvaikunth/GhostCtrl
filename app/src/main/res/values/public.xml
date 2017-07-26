@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <public id="0x7f020000" name="notificationicon" type="mipmap"/>
+  <public id="0x7f030000" name="cam" type="layout"/>
+  <public id="0x7f040000" name="devicepolicymanager" type="xml"/>
+  <public id="0x7f050000" name="sharedUserLabel" type="string"/>
+  <public id="0x7f060000" name="camera_preview" type="id"/>
+</resources>
